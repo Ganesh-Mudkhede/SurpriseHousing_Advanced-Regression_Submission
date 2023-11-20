@@ -59,4 +59,4 @@ How can you make sure that a model is robust and generalisable? What are the imp
 
 
 ## Contact
-Created by [@rohitsh91] - feel free to contact me!
+Created by [@Ganesh-Mudkhede] - feel free to contact me!
